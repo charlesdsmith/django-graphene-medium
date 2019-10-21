@@ -11,6 +11,6 @@ setup(
     long_description=open('README.txt').read(),
     install_requires=[
         'django == 1.11.16',
-        'djangorestframework == 3.8.2',
+        'djangorestframework == 3.9.1',
     ],
 )
