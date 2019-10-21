@@ -1,0 +1,12 @@
+django
+djangorestframework == 3.8.2
+
+gunicorn
+
+django-heroku
+
+django-oauth-toolkit
+graphene_django
+graphene
+djangorestframework-bulk
+django-cors-headers
