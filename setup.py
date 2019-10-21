@@ -10,7 +10,7 @@ setup(
     description='For use with Heroku',
     long_description=open('README.txt').read(),
     install_requires=[
-        'django == 1.11.16',
+        'django == 1.11.23',
         'djangorestframework == 3.8.2',
     ],
 )
