@@ -1,3 +1,5 @@
+**currently being used for an article in progress**
+
 # Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
